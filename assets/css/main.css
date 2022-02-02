@@ -2547,7 +2547,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #9877a0;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -3058,6 +3058,11 @@ input, select, textarea {
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
+		}
+		.features li h3{
+			
+			margin-right: 0.3rem;
+			
 		}
 
 		.features li .card{
