@@ -1907,7 +1907,7 @@ input, select, textarea {
 			color: white;
 			background-color: rgba(83, 164, 189, 0.514);
 			border: 1px solid rgba(245, 245, 245, 0.349);
-			display: inline-block;
+			display: block;
 			border-radius: 100%;
 			padding: 0.2em 0.3em;
 			margin: 0 0 2em 0;
